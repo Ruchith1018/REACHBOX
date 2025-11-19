@@ -152,6 +152,8 @@ SLACK_WEBHOOK_URL=
 
 ## 🔧 Code Modules Overview
 
+![Preview](https://github.com/Ruchith1018/REACHBOX/blob/main/Screenshot%202025-11-19%20102103.png)
+
 ### **IMAP Sync – `src/imap/sync.ts`**
 Handles:
 - IMAP connections  
